@@ -1,0 +1,14 @@
+.lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+  width: 180px;
+  background: #f9f9f9;
+}
